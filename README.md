@@ -6,4 +6,8 @@
 # Tech Stack 👨‍💻
 - Python
 
-<img src="Output.png" width=900>
+# Image Results 💛
+<img src="Output.png" width="500px">
+
+# Developers ❤
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
