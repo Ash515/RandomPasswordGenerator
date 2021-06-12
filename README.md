@@ -3,13 +3,13 @@
 - A Random Password Generator is a GUI software which used to generate a random password with users favourable choices like type and sizes.
 - This will helps them to easily get their password without thinking in complex manner.
 
-# Tech Stack 👨‍💻
+## Tech Stack
 - Python
 
-# Image Results 💛
+## Image Results
 <img src="Output.png" width="500px">
 
-# 🚀&nbsp;Installation 
+## Installation 
 
 1. Clone the repository 
 ```
