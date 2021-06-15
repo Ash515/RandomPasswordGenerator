@@ -5,6 +5,7 @@
 
 ## Tech Stack
 - Python
+- Library - Tkinter
 
 ## Image Results
 <img src="Output.png" width="500px">
@@ -38,5 +39,5 @@ $git push origin master
 ```
 Thats all about installation and version control with **Git**
 
-# Developers ❤
+# Developer ❤
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
